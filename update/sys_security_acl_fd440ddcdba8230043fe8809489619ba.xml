@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_186382_my_sample_app_table</description>
+        <name>x_186382_my_sample_app_table</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-10 14:44:20</sys_created_on>
+        <sys_id>fd440ddcdba8230043fe8809489619ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_186382_my_sample_app_table</sys_name>
+        <sys_package display_value="My Sample App" source="x_186382_my_sample">2144c9dcdba8230043fe88094896199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Sample App">2144c9dcdba8230043fe88094896199d</sys_scope>
+        <sys_update_name>sys_security_acl_fd440ddcdba8230043fe8809489619ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-10 14:44:20</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
